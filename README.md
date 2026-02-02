@@ -6,16 +6,6 @@
 This notebook performs an exploratory data analysis on a student dataset `student_dataset_with_visualization.csv`, focusing on data cleaning and visualization.
 
 
-## Table of Contents
-1. [Import Libraries](#import-libraries)
-2. [Read Data File](#read-data-file)
-3. [Check for Null and Duplicate Values](#check-for-null-and-duplicate-values)
-4. [Replace Null Values with Mean](#replace-null-values-with-mean)
-5. [Graph by Gender vs. Average Attendance](#graph-by-gender-vs-average-attendance)
-6. [Bar Chart for Average Marks in Each Subject](#bar-chart-for-average-marks-in-each-subject)
-7. [Pie Chart for Proportion of Grades by Subject](#pie-chart-for-proportion-of-grades-by-subject)
-
-
 ## 1. Import Libraries
 This section imports necessary libraries like `matplotlib.pyplot`, `numpy`, and `pandas` for data manipulation and visualization.
 
